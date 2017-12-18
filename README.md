@@ -1,2 +1,2 @@
-# Introduction-algorithm-
+# Introduction-algorithm
 Mandatory quick start guide.
