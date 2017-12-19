@@ -5,3 +5,6 @@ We are using this [online editor](http://www.informatica-actief.nl/js/tekenapp2/
 The solution needs to be as efficient as possible and rely on functions.
 
 The [API documentation for the editor can be found here.](https://github.com/Piersoncollege/algorithm101/wiki/%22API%22) 
+
+Example images
+![Example 1](https://github.com/Piersoncollege/algorithm101/blob/master/image1.png)
