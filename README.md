@@ -6,5 +6,9 @@ The solution needs to be as efficient as possible and rely on functions.
 
 The [API documentation for the editor can be found here.](https://github.com/Piersoncollege/algorithm101/wiki/%22API%22) 
 
-Example images
-![Example 1](https://github.com/Piersoncollege/algorithm101/blob/master/image1.png)
+Example images <br>
+
+# ![Example 1](https://github.com/Piersoncollege/algorithm101/blob/master/image1.png)
+# ![Example 2](https://github.com/Piersoncollege/algorithm101/blob/master/image2.png)
+# ![Example 3](https://github.com/Piersoncollege/algorithm101/blob/master/image3.png)
+# ![Example 4](https://github.com/Piersoncollege/algorithm101/blob/master/image4.png)
