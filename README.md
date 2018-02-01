@@ -14,7 +14,7 @@ Example images <br>
 # ![Example 4](https://github.com/Piersoncollege/algorithm101/blob/master/image4.png)
 
 Challenges 
-# ![Challenge 1](https://github.com/Piersoncollege/algorithm101/blob/master/challange2017_1.jpg)
+# ![Challenge 1](https://github.com/Piersoncollege/algorithm101/blob/master/challange2017_1.png)
 # ![Challenge 2](https://github.com/Piersoncollege/algorithm101/blob/master/challange2017_2.jpg)
 # ![Challenge 3](https://github.com/Piersoncollege/algorithm101/blob/master/challange2017_3.jpg)
 # ![Challenge 4](https://github.com/Piersoncollege/algorithm101/blob/master/challange2017_4.jpg)
